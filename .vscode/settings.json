@@ -1,0 +1,17 @@
+{
+  "editor.formatOnSave": false,
+  "javascript.format.enable": false,
+  "prettier.singleQuote": true,
+  "prettier.jsxSingleQuote": true,
+  "editor.tabSize": 2,
+  "editor.renderWhitespace": "all",
+  "eslint.validate": [
+    "javascript",
+    "javascriptreact",
+    {
+      "language": "vue",
+      "autoFix": true
+    }
+  ],
+  "eslint.autoFixOnSave": true
+}
